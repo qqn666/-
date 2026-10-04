@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1791008320756,
+    "username": "alice",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "avatarColor": "#FF6F32",
+    "avatarColorKey": 1,
+    "avatarText": "A",
+    "createdAt": "2026-10-03 06:18"
+  },
+  {
+    "id": 1791008321457,
+    "username": "bob",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "avatarColor": "#4A90D9",
+    "avatarColorKey": 2,
+    "avatarText": "B",
+    "createdAt": "2026-10-03 06:18"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1791008320682,
+    "userId": 1791008320756,
+    "content": "今天天气真好，适合出去走走！#周末#",
+    "images": [
+      "#FFD3B6",
+      "#A0E7E5",
+      "#B4F8C8"
+    ],
+    "repostName": null,
+    "repostContent": null,
+    "repostCount": 0,
+    "commentCount": 0,
+    "createdAt": "2026-10-03 06:18"
+  },
+  {
+    "id": 1791008320861,
+    "userId": 1791008321457,
+    "content": "转发这条，说得太对了！",
+    "images": [],
+    "repostName": "科技前沿",
+    "repostContent": "未来已来，AI 正在改变世界。",
+    "repostCount": 0,
+    "commentCount": 0,
+    "createdAt": "2026-10-03 06:18"
+  }
+]
